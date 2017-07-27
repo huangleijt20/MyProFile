@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phoneinfo>
+	<brand name="华为">
+		<type name="p8">这手机还不错</type>
+		<type name="p9">这手机更好</type>
+		<type name="p10">有点坑</type>
+	</brand>
+	<brand name="小米">
+		<type name="max5">这手机发热</type>
+		<type name="max6">这手机抢不到</type>
+		<type name="max7">这手机还没出生</type>
+	</brand>
+</phoneinfo>
